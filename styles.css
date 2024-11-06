@@ -1,0 +1,64 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FCF6EF; /* Eggshell */
+}
+
+header {
+    background-color: #2E2E41; /* Charade */
+    color: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 5px 0 0 0;
+}
+
+nav {
+    background-color: #33576E; /* Seven Seas */
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #FB6D10; /* Ecstasy */
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #EB3E1B; /* Pomegranate */
+}
+
+footer {
+    background-color: #4D3347; /* Matterhorn */
+    color: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+footer div {
+    margin: 10px 0;
+}
+
+footer a {
+    color: #86112E; /* Claret */
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #C7DBE2; /* Baby Blue */
+}
